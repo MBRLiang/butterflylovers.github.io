@@ -1,7 +1,16 @@
 ### 欢迎来到我的github pages
 
-![啦啦啦啦](https://packages.vmware.com/icons/dir.gif)
-
+![image1](https://packages.vmware.com/icons/dir.gif)
+![image2](https://packages.vmware.com/icons/generic.gif)
+![image3](https://winworldpc.com/res/img/preset-icons/tag-reference.png)
+![image4](https://winworldpc.com/res/img/preset-icons/tag-presentations.png)
+![image5](https://winworldpc.com/res/img/preset-icons/tag-utility.png)
+![image6](https://winworldpc.com/res/img/preset-icons/tag-graphics.png)
+![image7](https://winworldpc.com/res/img//preset-icons/cat-sys.png)
+![image8](https://winworldpc.com/res/img//preset-icons/cat-dev.png)
+![image9](https://winworldpc.com/res/img/preset-icons/tag-server.png)
+![image10](https://winworldpc.com/res/img/preset-icons/tag-word-processor.png)
+![image11](https://winworldpc.com/res/img/preset-icons/tag-publishing.png)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
