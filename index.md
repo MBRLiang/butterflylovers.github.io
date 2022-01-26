@@ -10,7 +10,7 @@
 ![image8](https://winworldpc.com/res/img//preset-icons/cat-dev.png)
 ![image9](https://winworldpc.com/res/img/preset-icons/tag-server.png)
 ![image10](https://winworldpc.com/res/img/preset-icons/tag-word-processor.png)
-![image11](https://winworldpc.com/res/img/preset-icons/tag-publishing.png)
+![image11](https://winworldpc.com/res/img/preset-icons/tag-publishing.png)  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
